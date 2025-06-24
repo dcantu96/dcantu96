@@ -2,9 +2,9 @@
 
 *Full-Stack Software Engineer | Frontend Tech Lead | UX-Driven Developer*
 
-🚀 5+ years building scalable web apps for startups and industry clients
-🏭 AI-powered manufacturing tools, CRMs, and real-time dashboards  
-🧠 Passionate about clean architecture, technical ownership, and product strategy
+🚀 5+ years building scalable web apps for startups and industry clients   
+🏭 AI-powered manufacturing tools, CRMs, and real-time dashboards   
+🧠 Passionate about clean architecture, technical ownership, and product strategy   
 
 ### 👨‍💻 Current Focus
 - Freelance Full-Stack Engineer (React, Rails, PostgreSQL)

@@ -6,6 +6,8 @@
 🏭 AI-powered manufacturing tools, CRMs, and real-time dashboards   
 🧠 Passionate about clean architecture, technical ownership, and product strategy   
 
+[![davidcantum](https://img.shields.io/badge/davidcantum-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidcantum/)
+
 ### 👨‍💻 Current Focus
 - Freelance Full-Stack Engineer (React, Rails, PostgreSQL)
 - Building credit and payroll tools, leaderboard systems, and custom CRMs
@@ -40,8 +42,3 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-
-### 📫 Let's Connect
-- 🔗 [LinkedIn](https://linkedin.com/in/davidcantum)
-- 💻 [GitHub](https://github.com/dcantu96)
-- ✉️ [Email](mailto:davidcantu966@gmail.com)

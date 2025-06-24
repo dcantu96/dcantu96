@@ -6,7 +6,7 @@
 🏭 AI-powered manufacturing tools, CRMs, and real-time dashboards   
 🧠 Passionate about clean architecture, technical ownership, and product strategy   
 
-[![davidcantum](https://img.shields.io/badge/davidcantum-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidcantum/)
+[![@davidcantum](https://custom-icon-badges.demolab.com/badge/davidcantum-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/davidcantum/)
 
 ### 👨‍💻 Current Focus
 - Freelance Full-Stack Engineer (React, Rails, PostgreSQL)

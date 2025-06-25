@@ -6,7 +6,7 @@
 
 [![@davidcantum](https://custom-icon-badges.demolab.com/badge/davidcantum-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/davidcantum/)
 
-### 💼 Work Experience
+### 💼 Experience
 - **Front-End Tech Lead @ Valiot Inc**
   - Architected FactoryOS (React, GraphQL, Tailwind)
   - Led UI for AI alert system “Copilot” to boost factory efficiency

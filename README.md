@@ -3,19 +3,10 @@
 *Full-Stack Software Engineer | Frontend Tech Lead | UX-Driven Developer*
 
 🚀 5+ years building scalable web apps for startups and manufacturing industry clients   
-🏭 AI-powered manufacturing tools, CRMs, and real-time dashboards   
-🧠 Passionate about clean architecture, technical ownership, and product strategy   
 
 [![@davidcantum](https://custom-icon-badges.demolab.com/badge/davidcantum-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/davidcantum/)
 
-### 👨‍💻 Current Focus
-- Freelance Full-Stack Engineer (React, Rails, PostgreSQL)
-- Building credit and payroll tools, leaderboard systems, and custom CRMs
-- Exploring product-minded engineering & design systems
-
----
-
-### 💼 Previous Highlights
+### 💼 Work Experience
 - **Front-End Tech Lead @ Valiot Inc**
   - Architected FactoryOS (React, GraphQL, Tailwind)
   - Led UI for AI alert system “Copilot” to boost factory efficiency

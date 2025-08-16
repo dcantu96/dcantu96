@@ -26,6 +26,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs)
+![Drizzle](https://img.shields.io/badge/-Drizzle-FFDA79?logo=drizzle&logoColor=000000)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwindcss&logoColor=white)

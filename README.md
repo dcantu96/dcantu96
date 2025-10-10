@@ -2,6 +2,10 @@
 
 
 
+
+
+
+
 *Full-Stack Software Engineer | Frontend Tech Lead | UX-Driven Developer*
 
 🚀 5+ years building scalable web apps for startups and manufacturing industry clients   

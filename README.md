@@ -8,7 +8,7 @@
 
 ### 💼 Experience
 - **Senior Web Engineer @ Redzone/QAD**
-  - Just getting started!
+  - Advanced Integrations 
 
 - **Front-End Tech Lead @ Valiot Inc**
   - Architected FactoryOS (React, GraphQL, Tailwind)

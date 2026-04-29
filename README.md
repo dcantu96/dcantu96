@@ -2,9 +2,7 @@
 
 *Full-Stack Software Engineer | Frontend Tech Lead | UX-Driven Developer*
 
-🚀 6+ years building scalable web apps for startups and manufacturing industry clients   
-
-[![@davidcantum](https://custom-icon-badges.demolab.com/badge/davidcantum-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/davidcantum/)
+🚀 7+ years building scalable web apps for startups and manufacturing industry clients   
 
 ### 💼 Experience
 - **Senior Web Engineer @ Redzone/QAD**
